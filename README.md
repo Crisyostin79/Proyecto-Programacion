@@ -1,5 +1,5 @@
 # Bienvenidos al Proyecto de Programacion 1
-# [Debido a un Problema logistico debera descargar el archvio de musica desde GDRIVE](https://drive.google.com/drive/folders/1O1p14FyGHiSGr3v12_giqn6aa6of5Dhd?usp=sharing)
+# [Debido a un Problema logistico debera descargar el archivo de musica desde GDRIVE](https://drive.google.com/drive/folders/1O1p14FyGHiSGr3v12_giqn6aa6of5Dhd?usp=sharing)
 Este trabajo pertenece: <br>
 [Jorge Soto](https://github.com/Linich14)                
 [Christian Verdugo](https://github.com/Crisyostin79)        
